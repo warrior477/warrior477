@@ -1,6 +1,9 @@
 <h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=BBAF80D4&center=true&random=false&width=435&lines=Howdy%2C+I'm+Roman" alt="Typing SVG" /></a>
+</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=BBAF80D4&center=true&random=false&width=435&lines=Hi.+I'm+Roman" alt="Typing SVG" /></a>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=BBAF80D4&center=true&random=false&width=600&lines=I+like+to+experiment+with+new+technologies.;I+am+actively+working+to+develop+my+skills+;and+strive+to++improve+as+a+professional+;in+the+field+of+data+science." alt="Typing SVG" /></a>
 </h3>
 
 
